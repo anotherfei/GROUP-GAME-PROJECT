@@ -1,2 +1,2 @@
-# Final-Project
-NTHU I2P II - Final Project 
+# 2D GAME PROJECT
+NTHU I2P II - Final Project
